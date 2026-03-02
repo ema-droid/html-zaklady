@@ -1,0 +1,36 @@
+h2{
+    background: rgb(18, 18, 228);
+}
+div{
+    background-color: rgb(158, 158, 196);
+}
+p{
+    background: blue;
+}
+ul{
+    background: rgb(168, 168, 218);
+}
+a, button, strong{
+    background: rgb(192, 126, 201);
+}
+.d1 {
+    border: 2px solid black;
+    background: rgb(189, 133, 133);
+    width: 50%;
+}
+.b1 {
+    display: block;
+    background: rgb(236, 161, 226);
+    width: 180px;
+    height: 80px;
+    }
+
+.c1 {
+    background: rgb(110, 202, 110);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(0, 97, 0);
+    border-radius: 10px;
+    text-align: center;
+    place-content: center;
+}
