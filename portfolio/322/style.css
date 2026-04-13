@@ -1,0 +1,23 @@
+p {
+    text-align:center;
+    font-size: 15px;
+   
+}
+div {
+    width:500px;
+    height: 200px;
+    background-color: rgb(159, 211, 226);
+    border-radius: 20px;
+}
+#nadpis {
+font-size: x-large;
+color: rgb(223, 14, 84);
+}
+
+.info {
+font-size: medium;
+color: rgb(100, 92, 92);
+ text-align: center;
+}
+
+

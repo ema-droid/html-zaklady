@@ -1,0 +1,48 @@
+   div {
+    width:300px;
+    height: 400px;
+    color: rgb(126, 19, 189);
+    background-color: rgb(239, 248, 250);
+    border-radius: 50px;
+   place-items:CENTER;
+   }
+
+   h1 {
+      width: 100px;
+      height: 100px;
+      background-color: rgb(57, 8, 121);
+      color: rgb(218, 233, 240);
+    border-radius: 50px;
+    display: grid;
+    place-items: center;
+   }
+
+   h2 {
+      text-align: center;
+   }
+
+   p {
+      text-align: center;
+   }
+   button {
+      width: 95px;
+      height:40px;
+      background-color:rgb(44, 167, 167) ;
+      border-radius: 15px;
+      text-align: center;
+      color: rgb(132, 59, 201);
+   }
+   h5 {
+       width: 100px;
+      height: 30px;
+      background-color: rgb(66, 195, 204);
+      color: rgb(81, 11, 160);
+    border-radius: 50px;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    font-size: 12PX;
+    color: rgb(130, 40, 182);
+
+
+   }

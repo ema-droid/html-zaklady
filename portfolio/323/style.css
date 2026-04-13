@@ -1,0 +1,27 @@
+    h1 {
+        color: rgb(124, 202, 202);
+        text-align:center;
+    }
+
+
+    h2 {
+       text-align:center;
+    }
+    
+    h3 {
+color: rgb(163, 121, 121);
+
+    }
+
+    
+
+
+
+    
+    div {
+    width:600px;
+    height: 100px;
+    background-color: rgb(239, 248, 250);
+    border-radius: 20px;
+    border: 3px solid rgb(73, 7, 7);
+}
